@@ -5,7 +5,7 @@ LICENCE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. [Главная](pages/index.html)
-2. [Контакты](pages/contacts.html)
-3. [О нас](pages/about.html)
+1. [Главная](index.html)
+2. [Контакты](contacts.html)
+3. [О нас](about.html)
   
